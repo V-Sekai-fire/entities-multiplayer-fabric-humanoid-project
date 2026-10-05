@@ -4,7 +4,7 @@ A Godot test project that encodes a humanoid pose as muscle values and drives a 
 
 ## What it is for
 
-The `humanoid` addon stores and drives a humanoid skeleton through quantized muscle values, a compact form for sending a pose over the network. The main scene plays a locomotion clip on a sample avatar, computes its muscle values, and drives a skeleton from them.
+The `humanoid` addon stores and drives a humanoid skeleton through muscle values. The main scene plays a locomotion clip on a sample avatar, computes its muscle values, and drives a skeleton from them.
 
 ## Run
 
